@@ -15,6 +15,7 @@ myArr.map((i) => {
     console.log(i);
   }
 });
+
 //classes
 class Car {}
 const car: Car = new Car();
